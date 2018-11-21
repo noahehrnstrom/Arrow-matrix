@@ -1,2 +1,2 @@
 # json-scripts
-This is my hacks i've made self
+This is one of my json programs i've made for editing blocks in scratch. I've made it self
